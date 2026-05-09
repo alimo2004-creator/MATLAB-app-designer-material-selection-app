@@ -1,0 +1,41 @@
+MaterialName,Category,Yield_MPa,Modulus_MPa,UTS_MPa,Density_gcm3,StrainExp_n,Fatigue_Score,Stiffness_Score,Strength_Score,Cost_Score,Corrosion_Score,Impact_Score,MfgProcess,Constraints,Availability_Score
+HSLA Steel,Metal,550,200000,660,7.8,8,6,8,6,10,4,8,Automated progressive die stamping + Robotic MAG welding,Heavy unsprung mass penalty; requires zinc-nickel e-coating to prevent severe rust,10
+Cast Al A356,Metal,160,70000,184,2.67,5,6,4,6,9,2,5,Low-pressure die casting (LPDC) + T6 heat treatment,Prone to micro-porosity; requires strict X-ray inspection; lower fatigue limit,10
+Stamped Carbon Steel,Metal,280,200000,350,7.85,8,4,8,4,10,2,6,Cold rolling + Multi-stage stamping + automated welding,Highest weight penalty; highly susceptible to rust; requires heavy paint/coating,10
+Low-Pressure Cast Al,Metal,180,70000,207,2.7,5,4,6,4,8,6,5,LPDC + slow cooling + CNC face turning,Slower cycle times than standard casting; prone to thermal shrinkage defects,9
+Al-Li 2195,Metal,600,78000,660,2.71,5,10,6,10,2,8,8,Vacuum melting + Forging + 5-axis CNC machining,Lithium reactivity requires specialized foundry handling; high raw material cost,4
+Al-SiC MMC,Composite,450,100000,472,2.9,1,8,10,8,3,6,3,Powder metallurgy + Hot extrusion + Diamond-tool machining,Extremely abrasive to cutting tools; low elongation (brittle); unrepairable,3
+Al-Li 2099,Metal,480,78000,528,2.63,5,8,6,8,3,6,6,Billet forging + CNC milling + T83 heat treatment,Anisotropic grain structure; high scrap cost during machining phase,4
+Forged 6061-T6,Metal,276,69000,310,2.7,5,6,6,6,6,8,8,Closed-die hydraulic forging + CNC machining + T6 aging,High upfront die tooling costs; significant material waste during CNC phase,9
+Scandium-Al Alloys,Metal,500,71000,575,2.8,5,8,6,6,1,6,8,Specialty casting or forging + precipitation hardening,Scandium supply is strictly limited and extremely expensive; geopolitical risks,2
+Flow-Formed Al,Metal,350,70000,402,2.7,5,6,6,6,5,6,6,Low-pressure casting + Rotary flow-forming over a mandrel,Geometrically limited to symmetrical barrel shapes; cannot form complex spokes,7
+Ti-10V-2Fe-3Al,Metal,1100,110000,1188,4.65,12,10,6,10,1,8,8,Vacuum arc remelting + 5-axis CNC machining,Extreme tool wear; very slow material removal rates; cost-prohibitive,4
+Ti-6Al-4V ELI,Metal,790,110000,869,4.43,12,10,6,8,1,10,10,Forged billet + CNC machining with high-pressure coolant,Reactive at high temperatures; requires carbide tools; massive manufacturing cost,5
+CF/PEEK,Composite,2000,140000,2040,1.6,1,10,8,10,1,10,4,Automated fiber placement (AFP) + High-temp thermoforming,Cannot be repaired if cracked; difficult to recycle; catastrophic brittle failure,3
+Ti-6Al-4V Grade 5,Metal,880,114000,950,4.43,12,8,8,8,2,8,8,Hot forging + CNC machining,High springback during forming; galling issues during machining,8
+Beta-C Titanium,Metal,1150,105000,1265,4.82,12,8,4,10,1,10,6,Cold working + aging + CNC machining,Extremely high strength makes machining incredibly slow and expensive,3
+Toughened Epoxy CF,Composite,1500,135000,1530,1.55,1,8,8,10,2,10,5,Prepreg hand layup + Vacuum bagging + Autoclave curing,Labor intensive; 4+ hour curing cycle makes mass production impossible,6
+Carbon/Kevlar Hybrid,Composite,1200,120000,1260,1.4,1,8,6,8,2,8,7,Resin transfer molding (RTM) + Autoclave,Kevlar absorbs moisture if matrix is damaged; difficult to trim cleanly,5
+Forged AZ80 Mg,Metal,275,45000,316,1.8,6,6,4,6,3,4,6,Isothermal closed die forging,Severe fire hazard during machining (magnesium dust); requires galvanic isolation,5
+Inconel 718,Metal,1035,200000,1240,8.19,10,9,9,9,1,10,8,Vacuum induction melting + Investment casting,Extreme work-hardening makes CNC machining almost impossible; massive overkill,6
+AISI 4140 Steel,Metal,655,205000,950,7.85,8,7,8,7,8,3,7,Forging + Quench and Temper heat treatment,Heavy; requires continuous rust protection; hard to weld compared to low-carbon,10
+AISI 4340 Steel,Metal,710,205000,1010,7.85,8,8,8,8,7,3,8,Forging + Quench and Temper,Requires strict heat control to prevent cracking; heavy mass penalty,9
+Maraging Steel 300,Metal,1930,190000,1965,8.0,10,9,8,10,1,7,8,Vacuum induction melting + Aging at 480C,Astronomical cost; completely unnecessary for automotive applications,3
+Al 7075-T73,Metal,435,71700,505,2.81,5,7,6,7,5,7,6,Closed die forging + Overaging heat treatment,Susceptible to stress corrosion cracking if heat treatment is flawed; cannot be welded,8
+Al 2024-T3,Metal,345,73100,483,2.78,5,8,6,8,6,4,8,Extrusion or Forging + Solution heat treatment,Poor corrosion resistance (contains copper); requires alclad or heavy anodizing,8
+Elektron 21 Mg,Metal,165,44000,260,1.81,6,9,4,8,2,4,4,Sand casting with protective SF6 gas,Toxic foundry gases required; highly susceptible to galvanic corrosion,4
+AZ31B Magnesium,Metal,200,45000,260,1.77,6,5,4,5,3,3,5,Hot extrusion or sheet rolling,Easily dents; requires micro-arc oxidation coating to survive road salt,7
+GFRP Glass Fiber,Composite,900,45000,950,1.9,1,7,4,7,4,10,3,Resin Transfer Molding (RTM) + Oven curing,Heavy for a composite; too brittle for pothole impacts; slow factory cycle time,10
+Kevlar 49 Epoxy,Composite,1300,76000,1380,1.38,1,8,5,8,2,9,7,Hand layup + Vacuum bagging,Fibers fuzz during machining; degrades rapidly in UV light if clear-coated,6
+17-4 PH Stainless,Metal,1000,196000,1070,7.8,8,8,8,8,4,9,8,Investment Casting + H1150 precipitation hardening,Very dense/heavy; thermal conductivity is poor; overkill for rims,8
+15-5 PH Stainless,Metal,1000,196000,1070,7.8,8,8,8,8,4,9,9,Forging + Heat treatment,High density; machining requires rigid setups to prevent chatter,7
+Ferrium S53,Metal,1930,200000,1980,7.85,9,10,8,10,1,8,8,Specialty vacuum forging,Hyper-expensive aerospace steel; completely unviable for automotive budgets,2
+Zylon Polymer,Composite,2700,138000,2800,1.56,1,9,8,10,1,10,7,Pultrusion or compression molding,Rapid degradation from moisture and UV light; loses strength over time,2
+Beryllium Copper,Metal,1170,130000,1310,8.25,8,10,7,9,2,9,4,Specialty casting + Machining in controlled vents,Beryllium dust is highly toxic/carcinogenic; illegal for consumer car parts,5
+Nylon 6/6 Glass-Filled,Polymer,150,9000,170,1.35,1,5,2,4,8,10,3,High-pressure injection molding,Creeps under constant vehicle load; absorbs water which drops yield strength,10
+Polycarbonate,Polymer,60,2400,70,1.2,1,4,1,2,9,10,8,Injection molding,Far too flexible; will warp under vehicle weight and brake heat,10
+ABS Plastic,Polymer,40,2000,45,1.04,1,2,1,1,10,10,5,Injection molding or 3D printing,Melts under brake caliper heat; shatters in freezing temperatures,10
+Titanium Aluminide,Metal,400,165000,450,3.9,12,7,8,7,1,9,2,Precision investment casting,Shards like glass at room temperature; impossible to cold-form,2
+Hastelloy C-276,Metal,355,205000,790,8.89,10,7,8,7,1,10,8,Forging + Machining,Used for chemical reactors; density is too high; extreme machining difficulty,6
+Bronze Alloy C93200,Metal,125,100000,240,8.93,7,5,5,4,6,8,5,Sand casting or continuous casting,Extremely heavy; yield strength is dangerously low for automotive impacts,9
+Graphene-Infused CF,Composite,2500,160000,2600,1.5,1,10,9,10,1,10,6,Advanced prepreg AFP + Autoclave,Material does not exist at commercial scale; strictly prototype/hypercar use,1
