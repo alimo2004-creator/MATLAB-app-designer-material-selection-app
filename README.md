@@ -4,7 +4,7 @@
 ![Version](https://img.shields.io/badge/Version-1.0-brightgreen.svg)
 ![Engineering](https://img.shields.io/badge/Field-Mechanical_Engineering-orange.svg)
 
-> **Watch the Presentation Video:** [(https://drive.google.com/file/d/1tPsjXWnpGROBixqE_Eh3lXAzz7bm1eFl/view?usp=sharing)]
+> **Watch the Presentation Video:** [(https://drive.google.com/file/d/1N1BuNcwuFFrMN2Rs3A85YxV8IIV3cimt/view?usp=sharing)]
 
 ## 📖 Overview
 Selecting the perfect material for automotive rims is vital for vehicle safety, performance, and manufacturing viability. This application is an advanced, interactive engineering tool designed to aid in choosing optimal materials (both existing and theoretical) for car rims. 
