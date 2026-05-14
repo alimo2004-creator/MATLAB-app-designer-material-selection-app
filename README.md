@@ -48,14 +48,23 @@ Powered by a comprehensive, custom-built CSV database of material properties, th
 *(Replace the links below with your actual uploaded images/videos)*
 
 ### Application Demo
-![App Demo Video/GIF](Link_to_your_uploaded_video_or_gif)
+![App Demo Video/GIF](https://drive.google.com/file/d/1N1BuNcwuFFrMN2Rs3A85YxV8IIV3cimt/view?usp=drive_link)
+![presentation demo](https://drive.google.com/file/d/1tPsjXWnpGROBixqE_Eh3lXAzz7bm1eFl/view?usp=sharing)
 
 ### The Interface
-![Tab 1 Interface](Link_to_your_image_1.png)
+![Tab 1 Interface](images/main-screen)
+![Tab 1 Interface](images/screen2)
+![Tab 1 Interface](images/screen3)
 *Caption: The main selection dashboard and dynamic stress-strain generator.*
 
-![Screening Table](Link_to_your_image_2.png)
+![Screening Table](images/screening)
 *Caption: The advanced engineering screening and ranking matrix.*
+
+![manufactring Table](images/manufactring)
+
+
+![custom Table](images/custom2)
+![Screening Table](images/screening3)
 
 ---
 
